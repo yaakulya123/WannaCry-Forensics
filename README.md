@@ -8,13 +8,10 @@
 
 > **DANGER**: This repository contains potentially harmful code samples intended **SOLELY** for cybersecurity education and forensic analysis in controlled environments. Misuse is illegal and unethical.
 
-
-![image](https://github.com/user-attachments/assets/a2b968b6-82bd-4f64-8a81-09318924b4d5)
-
+![image](https://github.com/user-attachments/assets/27fe9470-88e8-4230-afcf-5939367f8ade)
 
 
 This repository contains malware samples and analysis tools related to the WannaCry ransomware for educational purposes in cybersecurity courses and controlled laboratory environments.
-
 
 ---
 
@@ -45,8 +42,7 @@ WannaCry (also known as WannaCrypt, WannaCry0r, or WCry) was a devastating ranso
 - **Notable Targets**: National Health Service (UK), Telefónica (Spain), FedEx, Deutsche Bahn, and many others
 - **Kill Switch**: Contained a domain check that, when registered, stopped the malware's spread
 
-<details>
-<summary>📊 Timeline of the Attack (Click to expand)</summary>
+### 📊 Timeline of the Attack
 
 | Date (2017) | Event |
 |-------------|-------|
@@ -56,8 +52,6 @@ WannaCry (also known as WannaCrypt, WannaCry0r, or WCry) was a devastating ranso
 | May 12 | Security researcher registers kill switch domain, slowing the spread |
 | May 14 | "WannaDecrypt0r 2.0" variant without kill switch appears |
 | May 15 | Marcus Hutchins (MalwareTech) recognized for discovering kill switch |
-
-</details>
 
 ---
 
@@ -114,8 +108,8 @@ This repository is designed to help cybersecurity students:
 <a name="resources"></a>
 ## Analysis Resources 📚
 
-- [Microsoft Security Bulletin MS17-010](https://docs.microsoft.com/en-us/security-updates/securitybulletins/2017/ms17-010)
-- [US-CERT Alert (TA17-132A)](https://www.cisa.gov/news-events/alerts/2017/05/12/indicators-compromise-wannacrypt-ransomware)
+- [Microsoft Security Bulletin MS17-010](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2017/ms17-010)
+- [US-CERT Alert (TA17-132A)](https://us-cert.cisa.gov/ncas/alerts/TA17-132A)
 - [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/)
 - [VirusTotal](https://www.virustotal.com/)
 - [SANS Internet Storm Center](https://isc.sans.edu/)
@@ -145,17 +139,7 @@ This repository is licensed under the [MIT License](https://opensource.org/licen
 ```
 MIT License
 
-Copyright (c) 2025 [Your Name/Organization]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Copyright (c) 2025 [Yaakulya/ New York Univesirty]
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -164,6 +148,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 ```
 
 ---
