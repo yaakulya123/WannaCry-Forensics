@@ -8,11 +8,12 @@
 
 > **DANGER**: This repository contains potentially harmful code samples intended **SOLELY** for cybersecurity education and forensic analysis in controlled environments. Misuse is illegal and unethical.
 
+
+![image](https://github.com/user-attachments/assets/a2b968b6-82bd-4f64-8a81-09318924b4d5)
+
+
+
 This repository contains malware samples and analysis tools related to the WannaCry ransomware for educational purposes in cybersecurity courses and controlled laboratory environments.
-
-
-
-![image](https://github.com/user-attachments/assets/24c75ce1-0ca0-4945-8130-0fe87a099070)
 
 
 ---
