@@ -12,18 +12,19 @@ This repository contains malware samples and analysis tools related to the Wanna
 
 ---
 
-## 📋 Contents
+## Contents
 
-- [About WannaCry](#about-wannacry)
-- [Extreme Safety Warning](#extreme-safety-warning)
-- [Educational Objectives](#educational-objectives)
-- [Safe Handling Instructions](#safe-handling-instructions)
-- [Analysis Resources](#analysis-resources)
-- [Legal Disclaimer](#legal-disclaimer)
-- [License](#license)
+* [About WannaCry](#about)
+* [Extreme Safety Warning](#warning)
+* [Educational Objectives](#objectives)
+* [Safe Handling Instructions](#handling)
+* [Analysis Resources](#resources)
+* [Legal Disclaimer](#disclaimer)
+* [License](#license)
 
 ---
 
+<a name="about"></a>
 ## About WannaCry
 
 WannaCry (also known as WannaCrypt, WannaCry0r, or WCry) was a devastating ransomware attack that spread globally in May 2017. It was one of history's largest and most damaging cyberattacks.
@@ -54,7 +55,8 @@ WannaCry (also known as WannaCrypt, WannaCry0r, or WCry) was a devastating ranso
 
 ---
 
-## ⚠️ Extreme Safety Warning ⚠️
+<a name="warning"></a>
+## Extreme Safety Warning ⚠️
 
 **The WannaCry.exe sample included in this repository is ACTUAL MALWARE and should be treated with extreme caution:**
 
@@ -73,7 +75,8 @@ WannaCry (also known as WannaCrypt, WannaCry0r, or WCry) was a devastating ranso
 
 ---
 
-## 🎓 Educational Objectives
+<a name="objectives"></a>
+## Educational Objectives 🎓
 
 This repository is designed to help cybersecurity students:
 
@@ -86,7 +89,8 @@ This repository is designed to help cybersecurity students:
 
 ---
 
-## 🛡️ Safe Handling Instructions
+<a name="handling"></a>
+## Safe Handling Instructions 🛡️
 
 | Requirement | Instructions |
 |-------------|--------------|
@@ -101,7 +105,8 @@ This repository is designed to help cybersecurity students:
 
 ---
 
-## 📚 Analysis Resources
+<a name="resources"></a>
+## Analysis Resources 📚
 
 - [Microsoft Security Bulletin MS17-010](https://docs.microsoft.com/en-us/security-updates/securitybulletins/2017/ms17-010)
 - [US-CERT Alert (TA17-132A)](https://www.cisa.gov/news-events/alerts/2017/05/12/indicators-compromise-wannacrypt-ransomware)
@@ -111,7 +116,8 @@ This repository is designed to help cybersecurity students:
 
 ---
 
-## ⚖️ Legal Disclaimer
+<a name="disclaimer"></a>
+## Legal Disclaimer ⚖️
 
 This material is provided **SOLELY** for legitimate educational and research purposes within appropriate academic and professional contexts. Users are responsible for complying with all applicable laws, regulations, and institutional policies.
 
@@ -125,7 +131,8 @@ This material is provided **SOLELY** for legitimate educational and research pur
 
 ---
 
-## 📜 License
+<a name="license"></a>
+## License 📜
 
 This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](./LICENSE) file for details.
 
