@@ -139,7 +139,7 @@ This repository is licensed under the [MIT License](https://opensource.org/licen
 ```
 MIT License
 
-Copyright (c) 2025 [Yaakulya/ New York Univesirty]
+Copyright (c) 2025 [Yaakulya /New York University]
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
